@@ -11,5 +11,6 @@ public void swati()
   {
 	Print s=new Print();
 	s.swati();
+	System.out.println("Changes Done");
 }
 }
